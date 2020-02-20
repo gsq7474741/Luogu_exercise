@@ -1,2 +1,3 @@
 # Luogu_exercise
-codes
+codes for learn
+>_<

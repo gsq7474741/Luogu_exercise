@@ -1,3 +1,3 @@
 # Luogu_exercise
 codes for learn
->_<
+>>_<
